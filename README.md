@@ -24,5 +24,5 @@ Thank you for reviewing my submission!
 # Contact
 For any inquiries or feedback regarding this project, please contact:
 
-Nilanjeet_Gugale(LinkedIn)
-Email: nilanjeetgugale@gmail.com
+- <a>[Nilanjeet_Gugale](https://www.linkedin.com/in/nilanjeet-gugale-b06534252/)(LinkedIn)</a>
+- Email: nilanjeetgugale@gmail.com
