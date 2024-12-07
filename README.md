@@ -8,7 +8,7 @@ Welcome to my submission for Task 2 of the Data Science Internship at Prodigy In
   3) Numpy
   4) matplotlip & Seaborn for visualization
 
-#Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 During the EDA process, I performed the following steps:
 
