@@ -20,3 +20,9 @@ During the EDA process, I performed the following steps:
 In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. Explore the relationships between variables and identify patterns and trends in the data.
 
 Thank you for reviewing my submission!
+
+# Contact
+For any inquiries or feedback regarding this project, please contact:
+
+Nilanjeet_Gugale(LinkedIn)
+Email: nilanjeetgugale@gmail.com
